@@ -23,5 +23,5 @@ luận về các nội dung đa ngành trong lĩnh vực công nghệ thông tin
 - Bảo mật sơ cấp bằng token và xác thực
 
 📈Link tài liệu báo cáo và video demo
-- [Demo]: https://youtu.be/5koNT89s7cM
-- [Tài liệu]: [Report_DienDanThaoLuan.pdf](https://github.com/user-attachments/files/20854055/Report_DienDanThaoLuan.pdf)
+[Demo]: https://youtu.be/5koNT89s7cM
+[Report_DienDanThaoLuan.pdf]: https://github.com/user-attachments/files/20854055/Report_DienDanThaoLuan.pdf
